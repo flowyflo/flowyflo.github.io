@@ -1,0 +1,21 @@
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+ ;
+}
+img {
+  border: 1px solid black;
+  align-items: right;
+  width:200;
+  float: right;
+}
+body {
+  text-align: center;
+  background-color: rgb(190, 190, 190);
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+}
+hr{
+  width: 70%;
+}
